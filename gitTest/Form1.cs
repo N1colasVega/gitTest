@@ -19,7 +19,8 @@ namespace gitTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello world!");
+            MessageBox.Show("1st");
+            MessageBox.Show("2nd");
         }
     }
 }
